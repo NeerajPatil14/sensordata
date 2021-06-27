@@ -11,4 +11,4 @@ After uploading data to firebase we can make http request to firebase to get the
 It is easy to seperate the data based on date input provided by end user.
 
 ## Deployment
->The Webapp is deployed on firebase- 
+>The Webapp is deployed on firebase- https://sensordata-a125f.web.app/
